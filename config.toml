@@ -1,0 +1,82 @@
+# Site settings
+baseURL = "https://gilv.es"
+languageCode = "en-US"
+title = "gilv.es"
+theme = "hugo-split-theme"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = "UA-51496681-2"
+
+# Copyright
+copyright = "Creative Commons 3.0"
+
+[params]
+
+  # Metadata for search engines and social sharing
+  author = "Gilvan Ritter"
+  description = "125 characters description about me!"
+  shareImage = "images/avatar.jpg"
+  twitterHandle = "gritttttt"
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = false
+      file = "images/avatar.jpg"
+      position = "center center"
+
+    # Video
+    [params.visual.video]
+      enable = true
+      mute = true
+      file = "videos/loop_white_crop.mp4"
+      # youtubeId = "dk9uNWPP7EA"
+
+  # Contact Links
+  [[params.links]]
+    [params.links.list1]
+      heading = "contact"
+
+        [[params.links.list1.link]]
+            text = "email"
+            url = "mailto:gilvanritter@gmail.com"
+
+        [[params.links.list1.link]]
+            text = "linkedin"
+            url = "grittt"
+
+  # Social Links
+  [[params.links]]
+    [params.links.list2]
+      heading = "social"
+
+	    [[params.links.list2.link]]
+            text = "instagram"
+            url = "https://www.instagram.com/gritttttt"
+
+        [[params.links.list2.link]]
+            text = "twitter"
+            url = "https://twitter.com/gritttttt"
+
+		[[params.links.list2.link]]
+		    text = "facebook"
+		    url = "https://www.facebook.com/gritttttt"
+
+	# Projects Links
+  [[params.links]]
+    [params.links.list3]
+      heading = "projects"
+
+        [[params.links.list3.link]]
+            text = "debugger.cc"
+            url = "https://debugger.cc"
+
+		[[params.links.list3.link]]
+		    text = "github"
+		    url = "https://github.com/gritt"
