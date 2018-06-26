@@ -1,0 +1,73 @@
+# Site settings
+baseURL = "https://gilv.es"
+languageCode = "en-US"
+title = "gilv.es"
+theme = "hugo-split-theme"
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = "UA-51496681-2"
+
+# Copyright
+copyright = "Copyright Gilvan Ritter"
+
+[params]
+
+  # Metadata for search engines and social sharing
+  author = "Gilvan Ritter"
+  description = "Senior software engineer experienced in backend development, microservices, software architecture and agile"
+  shareImage = "/images/background.jpg"
+  twitterHandle = "gritttttt"
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "images/background.jpg"
+      position = "center center"
+    # Video
+    [params.visual.video]
+      enable = false
+      mute = true
+      file = "videos/loop_bw_crop.mp4"
+      # youtubeId = "dk9uNWPP7EA"
+
+  # Contact Links
+  [[params.links]]
+    [params.links.list1]
+      heading = "contact"
+        [[params.links.list1.link]]
+            text = "email"
+            url = "mailto:gilvanritter@gmail.com"
+        [[params.links.list1.link]]
+            text = "linkedin"
+            url = "https://linkedin.com/in/grittt"
+        [[params.links.list1.link]]
+            text = "resume"
+            url = "/resume.pdf"
+
+  # Social Links
+  [[params.links]]
+    [params.links.list2]
+      heading = "social"
+        [[params.links.list2.link]]
+            text = "instagram"
+            url = "https://www.instagram.com/gritttttt"
+        [[params.links.list2.link]]
+            text = "twitter"
+            url = "https://twitter.com/gritttttt"
+        [[params.links.list2.link]]
+            text = "lastfm"
+            url = "https://www.last.fm/user/gilvanritter"
+
+	# Projects Links
+  [[params.links]]
+    [params.links.list3]
+      heading = "projects"
+        [[params.links.list3.link]]
+		        text = "github"
+		        url = "https://github.com/gritt"
