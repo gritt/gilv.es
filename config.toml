@@ -15,7 +15,7 @@ copyright = "Creative Commons 3.0"
 
   # Metadata for search engines and social sharing
   author = "Gilvan Ritter"
-  description = "125 characters description about me!"
+  description = "Backend Developer, working in the area for almost 5 years, experienced developing APIs and web applications."
   shareImage = "images/avatar.jpg"
   twitterHandle = "gritttttt"
 
@@ -24,13 +24,11 @@ copyright = "Creative Commons 3.0"
 
   # Section - Visual
   [params.visual]
-
     # Image
     [params.visual.image]
       enable = false
       file = "images/avatar.jpg"
       position = "center center"
-
     # Video
     [params.visual.video]
       enable = true
@@ -42,41 +40,34 @@ copyright = "Creative Commons 3.0"
   [[params.links]]
     [params.links.list1]
       heading = "contact"
-
         [[params.links.list1.link]]
             text = "email"
             url = "mailto:gilvanritter@gmail.com"
-
         [[params.links.list1.link]]
             text = "linkedin"
-            url = "grittt"
+            url = "https://linkedin.com/in/grittt"
 
   # Social Links
   [[params.links]]
     [params.links.list2]
       heading = "social"
-
-	    [[params.links.list2.link]]
+        [[params.links.list2.link]]
             text = "instagram"
             url = "https://www.instagram.com/gritttttt"
-
         [[params.links.list2.link]]
             text = "twitter"
             url = "https://twitter.com/gritttttt"
-
-		[[params.links.list2.link]]
-		    text = "facebook"
-		    url = "https://www.facebook.com/gritttttt"
+		    [[params.links.list2.link]]
+		        text = "facebook"
+		        url = "https://www.facebook.com/gritttttt"
 
 	# Projects Links
   [[params.links]]
     [params.links.list3]
       heading = "projects"
-
         [[params.links.list3.link]]
             text = "debugger.cc"
             url = "https://debugger.cc"
-
-		[[params.links.list3.link]]
-		    text = "github"
-		    url = "https://github.com/gritt"
+        [[params.links.list3.link]]
+		        text = "github"
+		        url = "https://github.com/gritt"
