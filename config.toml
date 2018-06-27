@@ -33,7 +33,7 @@ copyright = "Creative Commons 3.0"
     [params.visual.video]
       enable = true
       mute = true
-      file = "videos/loop_white_crop.mp4"
+      file = "videos/loop_bw_crop.mp4"
       # youtubeId = "dk9uNWPP7EA"
 
   # Contact Links
