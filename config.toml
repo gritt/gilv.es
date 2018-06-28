@@ -9,13 +9,13 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 googleAnalytics = "UA-51496681-2"
 
 # Copyright
-copyright = "Creative Commons 3.0"
+copyright = "GNU General Public License v3.0. Made with Hugo ♥︎ "
 
 [params]
 
   # Metadata for search engines and social sharing
   author = "Gilvan Ritter"
-  description = "Backend Developer, working in the area for almost 5 years, experienced developing APIs and web applications."
+  description = "Backend developer, almost 5 years in the area, experienced in architecting APIs and web applications."
   shareImage = "images/avatar.jpg"
   twitterHandle = "gritttttt"
 
@@ -46,20 +46,23 @@ copyright = "Creative Commons 3.0"
         [[params.links.list1.link]]
             text = "linkedin"
             url = "https://linkedin.com/in/grittt"
+        [[params.links.list1.link]]
+            text = "resume"
+            url = "/resume.pdf"
 
   # Social Links
   [[params.links]]
     [params.links.list2]
       heading = "social"
         [[params.links.list2.link]]
+          text = "facebook"
+          url = "https://www.facebook.com/gritttttt"
+        [[params.links.list2.link]]
             text = "instagram"
             url = "https://www.instagram.com/gritttttt"
         [[params.links.list2.link]]
             text = "twitter"
             url = "https://twitter.com/gritttttt"
-		    [[params.links.list2.link]]
-		        text = "facebook"
-		        url = "https://www.facebook.com/gritttttt"
 
 	# Projects Links
   [[params.links]]
