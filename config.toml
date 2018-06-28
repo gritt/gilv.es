@@ -16,7 +16,7 @@ copyright = "GNU General Public License v3.0. Made with Hugo ♥︎ "
   # Metadata for search engines and social sharing
   author = "Gilvan Ritter"
   description = "Backend developer, almost 5 years in the area, experienced in architecting APIs and web applications."
-  shareImage = "images/avatar.jpg"
+  shareImage = "/gritt.jpeg"
   twitterHandle = "gritttttt"
 
   # Favicon
