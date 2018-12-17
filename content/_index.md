@@ -1,12 +1,12 @@
 +++
 title = "Hello sailors from the world wide web"
-tagline = "you can call me gilves!"
+tagline = "Gilvan Ritter"
 +++
 
-**Backend developer** based in Pelotas, Brazil, almost 5 years in the area, **experienced in architecting APIs and web applications.**
+**Backend Developer**, more than 5 years in the area, **experienced in architecting APIs and Web Applications.**
 
-My **focus** is **to** always **push well designed, clean and performative code**, as much as possible, so that I can **deliver maintainable and valuable software.**
+My **focus** is to **build well designed, clean and performative code**, as much as possible, so that I can **deliver maintainable and valuable software.**
 
-I love **Open Source**, and I believe in the **educational aspect of the internet**, thus, I enjoy learning and sharing my thoughts online; anyone can pursue knowledge if it's publicly available.
+I love **Open Source**, and I believe **the internet can educate and transform people's lives**, I'm especially interested (learning / sharing) in software engineering and coding best practices.
 
-If you want to get in touch for a project, consultancy or work, **I'm available!** Below you can find my resume, email, links to my social media and my github.
+If you want to get in touch for a project, consultancy or work, you can find below, links to my resume, email, github and other social media.
