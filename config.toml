@@ -26,12 +26,12 @@ copyright = "GNU General Public License v3.0. Made with Hugo ♥︎ "
   [params.visual]
     # Image
     [params.visual.image]
-      enable = false
-      file = "images/avatar.jpg"
+      enable = true
+      file = "images/background.jpg"
       position = "center center"
     # Video
     [params.visual.video]
-      enable = true
+      enable = false
       mute = true
       file = "videos/loop_bw_crop.mp4"
       # youtubeId = "dk9uNWPP7EA"
