@@ -1,12 +1,13 @@
 +++
 title = "Hello sailors from the world wide web"
-tagline = "Gilvan Ritter"
+tagline = "Olá Mundo!"
 +++
 
-**Backend Developer**, more than 5 years in the area, **experienced in architecting APIs and Web Applications.**
+My name is Gilvan Ritter, I’m a Software Developer with over 7 years of experience, 
+currently working as Senior Consultant at ThoughtWorks and living in Porto Alegre, southern Brazil.
 
-My **focus** is to **build well designed, clean and performative code**, as much as possible, so that I can **deliver maintainable and valuable software.**
+In my career, I have worked mainly developing web services, in different teams, architectures and languages, 
+my goal is to deliver software that brings value to the business; 
+I believe that can be achieved through teamwork, continuous improvement and well thought architectures with clean and tested code.
 
-I love **Open Source**, and I believe **the internet can educate and transform people's lives**, I'm especially interested (learning / sharing) in software engineering and coding best practices.
-
-If you want to get in touch for a project, consultancy or work, you can find below, links to my resume, email, github and other social media.
+If you want to get in touch, you can find below, links to my resume, email, github and other social media.
